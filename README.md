@@ -26,7 +26,7 @@ Atualmente desenvolvo projetos com C#, aplicando lógica de programação, orien
 ## 📌 Projetos em destaque
 
 - ✂️ [Barbearia-senai](https://github.com/KauaSilveiraSanto/Barbearia-senai) — Sistema de gerenciamento de clientes em uma barbearia
-- 📚 [Exercícios de Lógica em C#](https://github.com/Exerc-cios-de-L-gica-em-C-) — Lista completa de lógica resolvida 
+- 📚 [Exercícios de Lógica em C#](https://github.com/KauaSilveiraSanto/Exerc-cios-de-L-gica-em-C-) — Lista completa de lógica resolvida 
 
 ---
 
